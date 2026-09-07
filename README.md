@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iyasco22
-- 👀 I’m interested in coding but can't code yet
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning IT support
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
